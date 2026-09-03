@@ -13,9 +13,9 @@ const NEXT_PART_CODE = "0309";
 const STORAGE_KEY = "diamentowy-testament-" + window.location.pathname;
 
 const QUESTS = [
-  { answerType: "number",   answers: ["a"] },   // Quest 1
+  { answerType: "number",   answers: ["5214"] },   // Quest 1
   { answerType: "number", answers: ["9"] },   // Quest 2
-  { answerType: "number",   answers: ["c"] },   // Quest 3
+  { answerType: "number",   answers: ["1525"] },   // Quest 3
   { answerType: "number", answers: ["674"] },   // Quest 4
   { answerType: "text",   answers: ["studnia"] },   // Quest 5
   { answerType: "number", answers: ["4312"] }    // Quest 6
