@@ -17,7 +17,7 @@ const QUESTS = [
   { answerType: "number", answers: ["9"] },   // Quest 2
   { answerType: "number",   answers: ["1525"] },   // Quest 3
   { answerType: "number", answers: ["674"] },   // Quest 4
-  { answerType: "text",   answers: ["studnia"] },   // Quest 5
+  { answerType: "text",   answers: ["studnia","well"] },   // Quest 5
   { answerType: "number", answers: ["4312"] }    // Quest 6
 ];
 
